@@ -1,0 +1,6 @@
+.wrap { position: relative; text-align: center; max-width: 1000px; font-size: 0.9em; margin: 0 auto; }
+.wrap>* { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+.wrap>div { display: inline-block; width: 45%; border: 1px solid black; min-width: 250px; }
+
+#imperativeStyle { background-color: #F00; color: #FFF; }
+#functionalStyle { background-color: #00F; color: #FFF; }
